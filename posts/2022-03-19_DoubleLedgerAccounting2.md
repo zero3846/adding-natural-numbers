@@ -18,7 +18,7 @@ Accounts that are described by the right side of the equation are credit account
 
 Here's a nifty mnemonic for how to oversee and decrease balances for debit and credit accounts.
 
-`Like types increase. Unlike types decrease.`
+`👍 Like for increase | 👎 Unlike for decrease`
 
 Desired Change   | Debit Accounts | Credit Accounts
 ---              | ---   | ---
